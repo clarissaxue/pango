@@ -1,0 +1,3 @@
+rootProject.name = 'pango'
+
+include ':app'
