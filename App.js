@@ -9,7 +9,7 @@ import {
 
 import Camera from 'react-native-camera';
 
-export default class MyCamera extends Component {
+export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
